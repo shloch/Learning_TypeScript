@@ -6,6 +6,7 @@ import { HasFormatter } from './interfaces/hasFormatter'
 // let docOne: HasFormatter;
 // let docTwo: HasFormatter;
 
+
 // docOne = new Invoice('yoshi', 'web work', 250)
 // docTwo = new Payment('mario', 'plumbing work', 200);
 
