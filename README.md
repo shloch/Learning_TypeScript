@@ -3,6 +3,7 @@
 
 ## starting the app
 - open `index.html` file in `'public'` on your browser
+- command to recompile `.ts` files if modified = `tsc -w`
 
 ## screenshot
 
